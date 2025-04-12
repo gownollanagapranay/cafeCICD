@@ -34,7 +34,7 @@
 		<div id="mainPictures" class="center">
 			<table>
 				<tr>
-					<td><img src="images/Coffee-and-Pastries.jpg" height=auto width="490"></td>
+					<td><img src="images/indulgent-homemade-chocolate-chip-cookies-on-rustic-table-generated-by-ai-free-photo" height=auto width="490"></td>
 					<td><img src="images/Cake-Vitrine.jpg" height=auto width="450"></td>
 				</tr>
 			</table>
@@ -43,7 +43,7 @@
 			<br>
 			<table>
 				<tr>
-					<td bgcolor="aquamarine">
+					<td bgcolor="lightgray">
 						<div class="cursiveText">Frank bakes a rich variety of cookies. Try them all!</div>
 						<table>
 							<tr>
