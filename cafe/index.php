@@ -34,7 +34,7 @@
 		<div id="mainPictures" class="center">
 			<table>
 				<tr>
-					<td><img src="images/indulgent-homemade-chocolate-chip-cookies-on-rustic-table-generated-by-ai-free-photo" height=auto width="490"></td>
+					<td><img src="images/indulgent-homemade-chocolate-chip-cookies-on-rustic-table-generated-by-ai-free-photo.jpg" height=auto width="490"></td>
 					<td><img src="images/Cake-Vitrine.jpg" height=auto width="450"></td>
 				</tr>
 			</table>
